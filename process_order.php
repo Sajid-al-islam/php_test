@@ -39,7 +39,7 @@ if ($tax_status) {
     $total_cost = $quantity * $price;
 }
 
-$to = 'sajid285.me@gmail.com';
+$to = 'staff@fancygrocery.com';
 $subject = 'New Order';
 $message = "Customer Name: $customer_name\n"
 . "Customer Address: $customer_address\n"
